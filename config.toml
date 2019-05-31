@@ -1,0 +1,16 @@
+## Basic Configuration
+
+baseurl = "https://hd-fernandez.github.io"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Henry Fernandez"
+title = "Henry Fernandez"
+
+theme = "gohugo-theme-ananke"
+
